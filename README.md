@@ -20,11 +20,12 @@ Anytime you make a change in SimpleHTTP.ini you must restart the service for it 
 <b>Usage:</b>
 
 SimpleHTTPr will also serve the following files when requested and found in the path...
-/default001.htm through /default005.htm
-/default001.gif through /default005.gif
-/default001.jpg through /default005.jpg
-/default001.swf through /default005.swf
-/run001.htm through /run005.htm, when requested, will start the matching run001.bat through run005.bat on the server
+
+- /default001.htm through /default005.htm
+- /default001.gif through /default005.gif
+- /default001.jpg through /default005.jpg
+- /default001.swf through /default005.swf
+- /run001.htm through /run005.htm, when requested, will start the matching run001.bat through run005.bat on the server
 
 No GUI is displayed, check Task Manager or tcpview to see that it's running.
 
