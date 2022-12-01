@@ -1,7 +1,7 @@
 # SimpleHTTPr
 Serves a default.htm .gif .jpg .swf or .js file from it's \wwwroot directory and can also run batch files locally.
 
-Tested on Windows XP, Server 2003, Vista, Server 2008, Windows 7, Windows 8
+Tested on Windows XP, Server 2003, Vista, Server 2008, Windows 7, Windows 8, Windows 10, Windows 11
 
 A scripted install/uninstall is not included with this software.
 
