@@ -19,13 +19,15 @@ Anytime you make a change in SimpleHTTP.ini you must restart the service for it 
 
 ## Usage
 
-SimpleHTTPr will also serve the following files when requested and found in the path...
+SimpleHTTPr v3.0.0.3 will also serve the following files when requested and found in the path...
 
 - /default001.htm through /default005.htm
 - /default001.gif through /default005.gif
 - /default001.jpg through /default005.jpg
 - /default001.swf through /default005.swf
 - /run001.htm through /run005.htm, when requested, will start the matching run001.bat through run005.bat on the server
+
+Alternatively, SimpleHTTPrm v3.0.0.7 (Run More) will serve files /default001.* through /default030.* and /run001.* through /run0030.*
 
 No GUI is displayed, check Task Manager or tcpview to see that it's running.
 
